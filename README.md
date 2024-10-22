@@ -1,1 +1,1 @@
-Tis is a script that tries to rename a file
+# This is a script that tries to rename a file
